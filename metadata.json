@@ -1,0 +1,6 @@
+{
+  "name": "Tema 6: La lengua como sistema | Իսպաներեն - Հայերեն",
+  "description": "Ինտերակտիվ ուսումնական հավելված իսպաներենի 6-րդ թեմայի համար՝ «La lengua como sistema» հայերեն թարգմանությամբ և ձայնային արտասանությամբ։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
